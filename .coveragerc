@@ -1,0 +1,5 @@
+[run]
+include = Wisconsin_POR/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
